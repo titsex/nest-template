@@ -1,5 +1,5 @@
 {
-	"$schema": "https://biomejs.dev/schemas/1.6.4/schema.json",
+	"$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
 	"organizeImports": {
 		"enabled": false
 	},
@@ -24,7 +24,7 @@
 			"semicolons": "asNeeded",
 			"quoteStyle": "single",
 			"indentWidth": 4,
-			"trailingComma": "es5",
+			"trailingCommas": "es5",
 			"bracketSpacing": true,
 			"quoteProperties": "asNeeded",
 			"lineEnding": "lf",
